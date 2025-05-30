@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Web platform features explorer - Home</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/web-features-explorer/assets/styles.css">
+    <link rel="alternate" type="application/atom+xml" title="Web platform release notes" href="/web-features-explorer/release-notes.xml">
+  </head>
+  <body>
+
+    <header>
+      <a href="/web-features-explorer/">Web platform features explorer</a>
+
+      <nav>
+        <ul>
+          <li><a href="/web-features-explorer/release-notes/may-2025">Release notes</a></li>
+          <li><a href="/web-features-explorer/features">Explore all features</a></li>
+          <li><a href="/web-features-explorer/about">About</a></li>
+        </ul>
+        <search>
+          <form>
+            <input type="search" id="search" placeholder="Search">
+          </form>
+        </search>
+      </nav>
+
+      <output for="search"></output>
+    </header>
+
+    
+<main class="home release-notes">
+  <h1>Stay up-to-date with the web platform</h1>
+  <p>Use the Web platform features explorer to discover new features and APIs and stay up-to-date with changes.
+
+  </p><section class="baseline-low">
+    <h2>Newly available across browsers (<a href="newly-available.xml">RSS feed</a>)</h2>
+    <ul>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/regexp-escape/">RegExp.escape()</a></strong>:
+          The <code>RegExp.escape()</code> static method takes a string and replaces any characters that are potentially special characters of a regular expression with equivalent escape sequences. For example, <code>RegExp.escape("[abc]")</code> returns <code>"\\[abc\\]"</code>.
+        </li>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/json-modules/">JSON import attributes</a></strong>:
+          Module <code>import … with { type: "json" }</code> statements load JSON data. Also known as JSON module scripts.
+        </li>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/float16array/">Float16Array</a></strong>:
+          Float16Array is a typed array of 16-bit floating point numbers.
+        </li>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/single-color-gradients/">Single color stop gradients</a></strong>:
+          A single color stop can be provided to the <code>linear-gradient()</code>, <code>radial-gradient()</code>, and <code>conic-gradient()</code> CSS functions, and their repeating counterparts, to create a solid color background.
+        </li>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/atomics-pause/">Atomics.pause()</a></strong>:
+          The <code>Atomics.pause()</code> static method gives a hint to the CPU that the code calling the method is in a short-duration wait for shared memory, known as spinning or a spinlock.
+        </li>
+      
+    </ul>
+  </section>
+
+  <section class="baseline-high">
+    <h2>Now widely available across browsers (<a href="widely-available.xml">RSS feed</a>)</h2>
+    <ul>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/contain-inline-size/">Inline-size containment</a></strong>:
+          The <code>contain: inline-size</code> CSS declaration prevents the element's inline dimension from being set by the element's contents. This permits the browser to avoid slower layout calculations.
+        </li>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/array-findlast/">Array findLast() and findLastIndex()</a></strong>:
+          The <code>findLast()</code> and <code>findLastIndex()</code> methods of arrays and typed arrays search an array in reverse order for the first item that satisfies a test function.
+        </li>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/contain-style/">Style containment</a></strong>:
+          The <code>contain: style</code> CSS declaration permits the browser to avoid slower layout calculations by preventing modification to counter (<code>counter-increment</code> and <code>counter-set</code>) and quotation styles (<code>content</code> property quote values) beyond the element's descendants.
+        </li>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/appearance/">appearance</a></strong>:
+          The <code>appearance</code> CSS property controls the appearance of form controls. Using <code>appearance: none</code> disables any default native appearance and allows the elements to be styled with CSS.
+        </li>
+      
+        <li>
+          <strong><a href="/web-features-explorer/features/array-at/">Array at()</a></strong>:
+          The <code>at()</code> method of arrays and typed arrays returns the item at an index, including negative indices for getting items relative to the end of an array. Also known as the relative indexing method.
+        </li>
+      
+    </ul>
+  </section>
+</main>
+    
+    <script src="/web-features-explorer/assets/search.js" defer=""></script>
+  </body>
+</html>
