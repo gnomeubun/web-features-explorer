@@ -55,7 +55,7 @@
 <main>
   <h1>BCD key mapping</h1>
 
-  <p>The web-features project has 13907 BCD keys mapped, out of 15700 total BCD keys (89% complete).</p>
+  <p>The web-features project has 13907 BCD keys mapped, out of 15742 total BCD keys (88% complete).</p>
 
   <h2>Unmapped BCD keys</h2>
 
@@ -230,6 +230,16 @@
       <li class="">api.CredentialsContainer.create.publicKey_option.hints</li>
     
       <li class="">api.CredentialsContainer.get.identity_option.error_api</li>
+    
+      <li class="">api.CredentialsContainer.get.identity_option.mode_option</li>
+    
+      <li class="">api.CredentialsContainer.get.identity_option.providers_multiple</li>
+    
+      <li class="">api.CredentialsContainer.get.identity_option.providers_option_fields</li>
+    
+      <li class="">api.CredentialsContainer.get.identity_option.providers_option_loginHint</li>
+    
+      <li class="">api.CredentialsContainer.get.identity_option.providers_option_params</li>
     
       <li class="">api.CredentialsContainer.get.publicKey_option.extensions.prf</li>
     
@@ -681,6 +691,8 @@
     
       <li class="">api.HTMLElement.error_event</li>
     
+      <li class="">api.HTMLElement.innerText.enforces_trusted_types</li>
+    
       <li class="">api.HTMLElement.togglePopover.force_parameter</li>
     
       <li class="">api.HTMLElement.togglePopover.options_force_parameter</li>
@@ -925,6 +937,10 @@
     
       <li class="">api.HTMLScriptElement.noModule</li>
     
+      <li class="">api.HTMLScriptElement.src.enforces_trusted_types</li>
+    
+      <li class="">api.HTMLScriptElement.text.enforces_trusted_types</li>
+    
       <li class="group-start">api.HTMLSelectedContentElement</li>
     
       <li class="group-start">api.HTMLSourceElement</li>
@@ -960,6 +976,8 @@
       <li class="deprecated ">api.HTMLVideoElement.mozPresentedFrames</li>
     
       <li class="">api.HTMLVideoElement.playsInline</li>
+    
+      <li class="group-start">api.HighlightRegistry.highlightsFromPoint</li>
     
       <li class="deprecated group-start">api.History.pushState.unused_parameter</li>
     
@@ -1250,6 +1268,8 @@
       <li class="">api.NavigatorManagedData.managedconfigurationchange_event</li>
     
       <li class="deprecated group-start">api.NetworkInformation.typechange_event</li>
+    
+      <li class="group-start">api.Node.textContent.enforces_trusted_types</li>
     
       <li class="deprecated group-start">api.NodeIterator.detach</li>
     
@@ -1861,9 +1881,13 @@
     
       <li class="group-start">api.reportError</li>
     
-      <li class="group-start">api.setInterval.supports_parameters_for_callback</li>
+      <li class="group-start">api.setInterval.code_param_enforces_trusted_types</li>
     
-      <li class="group-start">api.setTimeout.supports_parameters_for_callback</li>
+      <li class="">api.setInterval.supports_parameters_for_callback</li>
+    
+      <li class="group-start">api.setTimeout.code_param_enforces_trusted_types</li>
+    
+      <li class="">api.setTimeout.supports_parameters_for_callback</li>
     
       <li class="deprecated group-start">css.at-rules.document</li>
     
@@ -3017,6 +3041,8 @@
     
       <li class="">webdriver.bidi.browser.createUserContext.proxy_parameter</li>
     
+      <li class="">webdriver.bidi.browser.createUserContext.unhandledPromptBehavior_parameter</li>
+    
       <li class="">webdriver.bidi.browser.getClientWindows</li>
     
       <li class="">webdriver.bidi.browser.getUserContexts</li>
@@ -3098,6 +3124,20 @@
       <li class="">webdriver.bidi.browsingContext.domContentLoaded_event.timestamp_parameter</li>
     
       <li class="">webdriver.bidi.browsingContext.domContentLoaded_event.url_parameter</li>
+    
+      <li class="">webdriver.bidi.browsingContext.downloadEnd_event</li>
+    
+      <li class="">webdriver.bidi.browsingContext.downloadEnd_event.context_parameter</li>
+    
+      <li class="">webdriver.bidi.browsingContext.downloadEnd_event.filepath_parameter</li>
+    
+      <li class="">webdriver.bidi.browsingContext.downloadEnd_event.navigation_parameter</li>
+    
+      <li class="">webdriver.bidi.browsingContext.downloadEnd_event.status_parameter</li>
+    
+      <li class="">webdriver.bidi.browsingContext.downloadEnd_event.timestamp_parameter</li>
+    
+      <li class="">webdriver.bidi.browsingContext.downloadEnd_event.url_parameter</li>
     
       <li class="">webdriver.bidi.browsingContext.downloadWillBegin_event</li>
     
@@ -3279,6 +3319,22 @@
     
       <li class="">webdriver.bidi.emulation.setGeolocationOverride.userContexts_parameter</li>
     
+      <li class="">webdriver.bidi.emulation.setLocaleOverride</li>
+    
+      <li class="">webdriver.bidi.emulation.setLocaleOverride.contexts_parameter</li>
+    
+      <li class="">webdriver.bidi.emulation.setLocaleOverride.locale_parameter</li>
+    
+      <li class="">webdriver.bidi.emulation.setLocaleOverride.userContexts_parameter</li>
+    
+      <li class="">webdriver.bidi.emulation.setScreenOrientationOverride</li>
+    
+      <li class="">webdriver.bidi.emulation.setScreenOrientationOverride.contexts_parameter</li>
+    
+      <li class="">webdriver.bidi.emulation.setScreenOrientationOverride.screenOrientation_parameter</li>
+    
+      <li class="">webdriver.bidi.emulation.setScreenOrientationOverride.userContexts_parameter</li>
+    
       <li class="">webdriver.bidi.input</li>
     
       <li class="">webdriver.bidi.input.fileDialogOpened_event</li>
@@ -3328,6 +3384,16 @@
       <li class="">webdriver.bidi.log.entryAdded_event.type_parameter</li>
     
       <li class="">webdriver.bidi.network</li>
+    
+      <li class="">webdriver.bidi.network.addDataCollector</li>
+    
+      <li class="">webdriver.bidi.network.addDataCollector.collectorType_parameter</li>
+    
+      <li class="">webdriver.bidi.network.addDataCollector.contexts_parameter</li>
+    
+      <li class="">webdriver.bidi.network.addDataCollector.dataTypes_parameter</li>
+    
+      <li class="">webdriver.bidi.network.addDataCollector.userContexts_parameter</li>
     
       <li class="">webdriver.bidi.network.addIntercept</li>
     
@@ -3407,6 +3473,12 @@
     
       <li class="">webdriver.bidi.network.disownData</li>
     
+      <li class="">webdriver.bidi.network.disownData.collector_parameter</li>
+    
+      <li class="">webdriver.bidi.network.disownData.dataType_parameter</li>
+    
+      <li class="">webdriver.bidi.network.disownData.request_parameter</li>
+    
       <li class="">webdriver.bidi.network.failRequest</li>
     
       <li class="">webdriver.bidi.network.failRequest.request_parameter</li>
@@ -3431,6 +3503,14 @@
     
       <li class="">webdriver.bidi.network.getData</li>
     
+      <li class="">webdriver.bidi.network.getData.collector_parameter</li>
+    
+      <li class="">webdriver.bidi.network.getData.dataType_parameter</li>
+    
+      <li class="">webdriver.bidi.network.getData.disown_parameter</li>
+    
+      <li class="">webdriver.bidi.network.getData.request_parameter</li>
+    
       <li class="">webdriver.bidi.network.provideResponse</li>
     
       <li class="">webdriver.bidi.network.provideResponse.body_parameter</li>
@@ -3444,6 +3524,10 @@
       <li class="">webdriver.bidi.network.provideResponse.request_parameter</li>
     
       <li class="">webdriver.bidi.network.provideResponse.statusCode_parameter</li>
+    
+      <li class="">webdriver.bidi.network.removeDataCollector</li>
+    
+      <li class="">webdriver.bidi.network.removeDataCollector.collector_parameter</li>
     
       <li class="">webdriver.bidi.network.removeIntercept</li>
     
