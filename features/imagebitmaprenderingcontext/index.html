@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Web platform features explorer - createImageBitmap</title>
+    <title>Web platform features explorer - ImageBitmapRenderingContext</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="/web-features-explorer/assets/styles.css">
     <link rel="alternate" type="application/atom+xml" title="Web platform release notes" href="/web-features-explorer/release-notes.xml">
@@ -30,14 +30,14 @@
 
     
 <main class="feature-page">
-  <div id="createimagebitmap" class="feature baseline-high">
+  <div id="imagebitmaprenderingcontext" class="feature baseline-high">
   <div class="header">
-    <h1 data-pagefind-body="">createImageBitmap</h1>
+    <h1 data-pagefind-body="">ImageBitmapRenderingContext</h1>
     <div class="availability">
   
     
     
-    Widely available since 2024-03-20
+    Widely available since 2022-07-15
   
 </div>
   </div>
@@ -55,7 +55,7 @@
   
 
   <p data-pagefind-body="">
-    The <code>createImageBitmap()</code> global method creates an <code>ImageBitmap</code> object from a source such as an image, SVG, blob, or canvas. An <code>ImageBitmap</code> object represents pixel data that can be drawn to a canvas with lower latency than other types, such as <code>ImageData</code>.
+    The <code>ImageBitmapRenderingContext</code> API is the <code>"bitmaprenderer"</code> rendering context for the <code>&#x3C;canvas></code> element. It is commonly used to transfer frames from an <code>OffscreenCanvas</code> to a user-visible <code>&#x3C;canvas></code> element.
   </p>
 
   <h3>Learning resources on MDN</h3>
@@ -64,9 +64,25 @@
   <ul data-pagefind-body="">
     
       <li>
-        <a href="https://developer.mozilla.org/docs/Web/API/Window/createImageBitmap">
+        <a href="https://developer.mozilla.org/docs/Web/API/ImageBitmapRenderingContext">
           
-            Window: createImageBitmap() method
+            ImageBitmapRenderingContext
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="https://developer.mozilla.org/docs/Web/API/ImageBitmapRenderingContext/canvas">
+          
+            ImageBitmapRenderingContext: canvas property
+          
+        </a>
+      </li>
+    
+      <li>
+        <a href="https://developer.mozilla.org/docs/Web/API/ImageBitmapRenderingContext/transferFromImageBitmap">
+          
+            ImageBitmapRenderingContext: transferFromImageBitmap() method
           
         </a>
       </li>
@@ -81,8 +97,8 @@
       <span class="name">Chrome</span>
       
       
-        <span class="version">50</span>
-        <span class="date">Released on 2016-04-13</span>
+        <span class="version">66</span>
+        <span class="date">Released on 2018-04-17</span>
       
     </li>
   
@@ -90,8 +106,8 @@
       <span class="name">Chrome Android</span>
       
       
-        <span class="version">50</span>
-        <span class="date">Released on 2016-04-13</span>
+        <span class="version">66</span>
+        <span class="date">Released on 2018-04-17</span>
       
     </li>
   
@@ -108,8 +124,8 @@
       <span class="name">Firefox</span>
       
       
-        <span class="version">42</span>
-        <span class="date">Released on 2015-11-03</span>
+        <span class="version">50</span>
+        <span class="date">Released on 2016-11-15</span>
       
     </li>
   
@@ -117,8 +133,8 @@
       <span class="name">Firefox for Android</span>
       
       
-        <span class="version">42</span>
-        <span class="date">Released on 2015-11-03</span>
+        <span class="version">50</span>
+        <span class="date">Released on 2016-11-15</span>
       
     </li>
   
@@ -126,8 +142,8 @@
       <span class="name">Safari</span>
       
       
-        <span class="version">15</span>
-        <span class="date">Released on 2021-09-20</span>
+        <span class="version">11.1</span>
+        <span class="date">Released on 2018-04-12</span>
       
     </li>
   
@@ -135,8 +151,8 @@
       <span class="name">Safari on iOS</span>
       
       
-        <span class="version">15</span>
-        <span class="date">Released on 2021-09-20</span>
+        <span class="version">11.3</span>
+        <span class="date">Released on 2018-03-29</span>
       
     </li>
   
@@ -155,7 +171,7 @@
       
         <li>
           
-            <a href="https://html.spec.whatwg.org/multipage/imagebitmap-and-animations.html#imagebitmap">HTML (#imagebitmap)</a>,
+            <a href="https://html.spec.whatwg.org/multipage/canvas.html#the-imagebitmaprenderingcontext-interface">HTML (#the-imagebitmaprenderingcontext-interface)</a>,
             from <a href="https://html.spec.whatwg.org/multipage/">HTML Workstream</a> (WHATWG).
           
         </li>
@@ -165,14 +181,14 @@
 
 
   <p class="edit-link">
-    <a href="https://wpt.fyi/results/?q=feature%3Acreateimagebitmap">View web-platform-tests results for this feature</a>
+    <a href="https://wpt.fyi/results/?q=feature%3Aimagebitmaprenderingcontext">View web-platform-tests results for this feature</a>
     -
-    <a href="https://github.com/web-platform-dx/web-features/blob/main/features/createimagebitmap.yml">View the feature source file</a>
-    <a href="https://github.com/web-platform-dx/web-features/blob/main/features/createimagebitmap.yml.dist">(dist)</a>
+    <a href="https://github.com/web-platform-dx/web-features/blob/main/features/imagebitmaprenderingcontext.yml">View the feature source file</a>
+    <a href="https://github.com/web-platform-dx/web-features/blob/main/features/imagebitmaprenderingcontext.yml.dist">(dist)</a>
     -
-    <a href="https://github.com/web-platform-dx/web-features/edit/main/features/createimagebitmap.yml">Edit the feature</a>
+    <a href="https://github.com/web-platform-dx/web-features/edit/main/features/imagebitmaprenderingcontext.yml">Edit the feature</a>
     -
-    <a href="https://github.com/web-platform-dx/web-features/issues/new?title=[createimagebitmap] Issue title&body=Please describe the issue here...">Report an issue about this feature</a>
+    <a href="https://github.com/web-platform-dx/web-features/issues/new?title=[imagebitmaprenderingcontext] Issue title&body=Please describe the issue here...">Report an issue about this feature</a>
   </p>
 </div>
 
