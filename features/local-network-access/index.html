@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Web platform features explorer - Private network access</title>
+    <title>Web platform features explorer - Local network access</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="/web-features-explorer/assets/styles.css">
     <link rel="alternate" type="application/atom+xml" title="Web platform release notes" href="/web-features-explorer/release-notes.xml">
@@ -30,12 +30,14 @@
 
     
 <main class="feature-page">
-  <div id="private-network-access" class="feature baseline-false discouraged">
+  <div id="local-network-access" class="feature baseline-false">
   <div class="header">
-    <h1 data-pagefind-body="">Private network access</h1>
+    <h1 data-pagefind-body="">Local network access</h1>
     <div class="availability">
   
-    Discouraged
+    Limited availability
+    
+    
   
 </div>
   </div>
@@ -43,7 +45,7 @@
   
     Tags:
     
-      <span class="tag">http</span>
+      <span class="tag">api</span>
     
   
   
@@ -51,37 +53,17 @@
 
 
   
-  <div class="discouraged-info">
-    <p>
-      This feature is discouraged.
-      
-        Consider using
-          
-            <a href="/web-features-explorer/features/local-network-access">Local network access</a>
-            
-          
-        instead.
-      
-      For the rationale, see:
-    </p>
-    <ul>
-      
-        <li><a href="https://github.com/WICG/local-network-access?tab=readme-ov-file#local-network-access">https://github.com/WICG/local-network-access?tab=readme-ov-file#local-network-access</a></li>
-      
-        <li><a href="https://developer.chrome.com/blog/pna-on-hold">https://developer.chrome.com/blog/pna-on-hold</a></li>
-      
-    </ul>
-  </div>
-
 
   <p data-pagefind-body="">
-    The <code>Access-Control-Request-Private-Network: true</code> and <code>Access-Control-Allow-Private-Network: true</code> HTTP request and response headers establish permission for websites to make requests to internal networks, such as to routers.
+    The <code>"local-network-access"</code> user permission (and certain actions that imply this permission, such as a <code>fetch()</code> request with <code>{ targetAddressSpace: "local" }</code>) allows a site to send requests to servers on a user's local network.
   </p>
 
   <h3>Learning resources on MDN</h3>
 
 
   <strong>No MDN documentation found.</strong>
+  
+    You can <a href="https://developer.mozilla.org/search?q=Local network access">search for the feature on MDN</a>. If you believe that MDN has no documentation about this feature, you can <a href="https://github.com/mdn/mdn/issues/new?template=content-or-feature-suggestion.yml">open an issue on MDN's GitHub repository</a>.
   
 
   
@@ -127,14 +109,6 @@
         
   
   
-  <span class="position position-positive">
-    <a href="https://github.com/mozilla/standards-positions/issues/143">Vendor position</a>
-    
-      <span>: positive</span>
-    
-    
-  </span>
-
 
 
       
@@ -149,14 +123,6 @@
         
   
   
-  <span class="position position-positive">
-    <a href="https://github.com/mozilla/standards-positions/issues/143">Vendor position</a>
-    
-      <span>: positive</span>
-    
-    
-  </span>
-
 
 
       
@@ -205,8 +171,7 @@
       
         <li>
           
-            <a href="https://wicg.github.io/private-network-access/">Private Network Access</a>,
-            from <a href="https://www.w3.org/community/wicg/">Web Platform Incubator Community Group</a> (W3C).
+            <a href="https://wicg.github.io/local-network-access/">https://wicg.github.io/local-network-access/</a>
           
         </li>
       
@@ -215,14 +180,14 @@
 
 
   <p class="edit-link">
-    <a href="https://wpt.fyi/results/?q=feature%3Aprivate-network-access">View web-platform-tests results for this feature</a>
+    <a href="https://wpt.fyi/results/?q=feature%3Alocal-network-access">View web-platform-tests results for this feature</a>
     -
-    <a href="https://github.com/web-platform-dx/web-features/blob/main/features/private-network-access.yml">View the feature source file</a>
-    <a href="https://github.com/web-platform-dx/web-features/blob/main/features/private-network-access.yml.dist">(dist)</a>
+    <a href="https://github.com/web-platform-dx/web-features/blob/main/features/local-network-access.yml">View the feature source file</a>
+    <a href="https://github.com/web-platform-dx/web-features/blob/main/features/local-network-access.yml.dist">(dist)</a>
     -
-    <a href="https://github.com/web-platform-dx/web-features/edit/main/features/private-network-access.yml">Edit the feature</a>
+    <a href="https://github.com/web-platform-dx/web-features/edit/main/features/local-network-access.yml">Edit the feature</a>
     -
-    <a href="https://github.com/web-platform-dx/web-features/issues/new?title=[private-network-access] Issue title&body=Please describe the issue here...">Report an issue about this feature</a>
+    <a href="https://github.com/web-platform-dx/web-features/issues/new?title=[local-network-access] Issue title&body=Please describe the issue here...">Report an issue about this feature</a>
   </p>
 </div>
 
