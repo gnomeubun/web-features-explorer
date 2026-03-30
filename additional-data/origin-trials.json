@@ -829,7 +829,16 @@
   "span": [],
   "speak": [],
   "speak-as": [],
-  "speculation-rules": [],
+  "speculation-rules": [
+    {
+      "browser": "Chrome",
+      "name": "Prerendering cross-origin iframes",
+      "start": "147",
+      "end": "152",
+      "feedbackUrl": "https://github.com/WICG/nav-speculation/issues",
+      "registrationUrl": "https://developer.chrome.com/origintrials/#/register_trial/790944684556943361"
+    }
+  ],
   "speech-recognition": [],
   "speech-recognition-grammar": [],
   "speech-synthesis": [],
