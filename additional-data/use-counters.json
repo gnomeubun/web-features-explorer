@@ -3,33 +3,33 @@
   "abbr": {},
   "abortable-fetch": {},
   "aborting": {
-    "percentageOfPageLoad": 0.51982398,
+    "percentageOfPageLoad": 0.53595063,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/124"
   },
   "abortsignal-any": {
-    "percentageOfPageLoad": 0.00936273,
+    "percentageOfPageLoad": 0.01031204,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/88"
   },
   "abs-sign": {},
   "absolute-positioning": {},
   "accelerometer": {
-    "percentageOfPageLoad": 0.00278801,
+    "percentageOfPageLoad": 0.00297875,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/147"
   },
   "accent-color": {
-    "percentageOfPageLoad": 0.04259488,
+    "percentageOfPageLoad": 0.04374709,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/6"
   },
   "accesskey": {},
   "accessor-methods": {},
   "active-view-transition": {
-    "percentageOfPageLoad": 0.00114951,
+    "percentageOfPageLoad": 0.00197514,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/217"
   },
   "address": {},
   "alerts": {},
   "align-content-block": {
-    "percentageOfPageLoad": 0.0780339,
+    "percentageOfPageLoad": 0.09000894,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/345"
   },
   "alignment-baseline": {},
@@ -38,69 +38,69 @@
   "alternative-style-sheets": {},
   "ambient-light": {},
   "anchor-positioning": {
-    "percentageOfPageLoad": 0.05498593,
+    "percentageOfPageLoad": 0.05964182,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/97"
   },
   "angle-instanced-arrays": {},
   "animation-composition": {
-    "percentageOfPageLoad": 0.00364384,
+    "percentageOfPageLoad": 0.00379923,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/7"
   },
   "animations-css": {},
   "app-file-handlers": {
-    "percentageOfPageLoad": 9e-7,
+    "percentageOfPageLoad": 7.4e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/299"
   },
   "app-launch-handler": {
-    "percentageOfPageLoad": 0.01223148,
+    "percentageOfPageLoad": 0.01323097,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/309"
   },
   "app-migration": {
-    "percentageOfPageLoad": 0.00010582,
+    "percentageOfPageLoad": 0.00008883,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/431"
   },
   "app-protocol-handlers": {
-    "percentageOfPageLoad": 0.00384809,
+    "percentageOfPageLoad": 0.00446891,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/300"
   },
   "app-share-targets": {
-    "percentageOfPageLoad": 0.00318975,
+    "percentageOfPageLoad": 0.0033765,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/304"
   },
   "app-shortcuts": {
-    "percentageOfPageLoad": 0.02064456,
+    "percentageOfPageLoad": 0.02112261,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/305"
   },
   "appearance": {
-    "percentageOfPageLoad": 0.50747412,
+    "percentageOfPageLoad": 0.51733787,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/8"
   },
   "arguments-callee": {},
   "aria-attribute-reflection": {
-    "percentageOfPageLoad": 0.1621507,
+    "percentageOfPageLoad": 0.16576932,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/96"
   },
   "array": {},
   "array-at": {},
   "array-by-copy": {
-    "percentageOfPageLoad": 0.02022313,
+    "percentageOfPageLoad": 0.02216517,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/223"
   },
   "array-copywithin": {},
   "array-fill": {},
   "array-find": {},
   "array-findlast": {
-    "percentageOfPageLoad": 0.09020739,
+    "percentageOfPageLoad": 0.09222422,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/238"
   },
   "array-flat": {},
   "array-from": {},
   "array-fromasync": {
-    "percentageOfPageLoad": 0.01478663,
+    "percentageOfPageLoad": 0.01487057,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/224"
   },
   "array-group": {
-    "percentageOfPageLoad": 0.02364673,
+    "percentageOfPageLoad": 0.0240903,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/239"
   },
   "array-includes": {},
@@ -112,57 +112,57 @@
   "article": {},
   "aside": {},
   "aspect-ratio": {
-    "percentageOfPageLoad": 0.39153414,
+    "percentageOfPageLoad": 0.39403113,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/9"
   },
   "async-await": {},
   "async-clipboard": {
-    "percentageOfPageLoad": 0.00395813,
+    "percentageOfPageLoad": 0.00428162,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/121"
   },
   "async-generators": {},
   "async-iterable-streams": {
-    "percentageOfPageLoad": 0.00225212,
+    "percentageOfPageLoad": 0.00238762,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/279"
   },
   "async-iterators": {},
   "atomics-pause": {
-    "percentageOfPageLoad": 7e-8,
+    "percentageOfPageLoad": 1e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/377"
   },
   "atomics-wait-async": {
-    "percentageOfPageLoad": 0.00166313,
+    "percentageOfPageLoad": 0.00198126,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/242"
   },
   "attr": {},
   "attr-contents": {},
   "attribution-reporting": {
-    "percentageOfPageLoad": 0.15776228,
+    "percentageOfPageLoad": 0.14608694,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/282"
   },
   "audio": {},
   "audio-session": {},
   "audio-video-tracks": {},
   "audio-worklet": {
-    "percentageOfPageLoad": 0.00107267,
+    "percentageOfPageLoad": 0.00114718,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/152"
   },
   "autocapitalize": {},
   "autocorrect": {},
   "autofill": {
-    "percentageOfPageLoad": 0.02665267,
+    "percentageOfPageLoad": 0.02728684,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/352"
   },
   "autofocus": {},
   "autonomous-custom-elements": {},
   "avif": {
-    "percentageOfPageLoad": 0.10957863,
+    "percentageOfPageLoad": 0.11400297,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/10"
   },
   "b": {},
   "backdrop": {},
   "backdrop-filter": {
-    "percentageOfPageLoad": 0.36296324,
+    "percentageOfPageLoad": 0.37128436,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/11"
   },
   "background": {},
@@ -171,7 +171,7 @@
   "background-clip": {},
   "background-clip-border-area": {},
   "background-clip-text": {
-    "percentageOfPageLoad": 0.66524858,
+    "percentageOfPageLoad": 0.67221096,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/131"
   },
   "background-color": {},
@@ -183,19 +183,19 @@
   "background-size": {},
   "background-sync": {},
   "badging": {
-    "percentageOfPageLoad": 0.00112106,
+    "percentageOfPageLoad": 0.00114793,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/301"
   },
   "barcode": {},
   "barprop": {
-    "percentageOfPageLoad": 0.13822777,
+    "percentageOfPageLoad": 0.14470554,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/274"
   },
   "base": {},
   "base64encodedecode": {},
   "baseline-shift": {},
   "baseline-source": {
-    "percentageOfPageLoad": 0.00074635,
+    "percentageOfPageLoad": 0.00074738,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/214"
   },
   "battery": {},
@@ -204,55 +204,55 @@
   "beacons": {},
   "before-after": {},
   "beforeinstallprompt": {
-    "percentageOfPageLoad": 0.1458993,
+    "percentageOfPageLoad": 0.14649906,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/303"
   },
   "beforeunload": {
-    "percentageOfPageLoad": 0.57111156,
+    "percentageOfPageLoad": 0.57844396,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/275"
   },
   "bfcache-blocking-reasons": {
-    "percentageOfPageLoad": 0.0493464,
+    "percentageOfPageLoad": 0.05068437,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/276"
   },
   "bigint": {},
   "bigint64array": {},
   "blocking-render": {
-    "percentageOfPageLoad": 0.11468295,
+    "percentageOfPageLoad": 0.11541634,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/12"
   },
   "blockquote": {},
   "body": {},
   "border-image": {
-    "percentageOfPageLoad": 0.05961497,
+    "percentageOfPageLoad": 0.06034947,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/13"
   },
   "border-radius": {},
   "borders": {},
   "box-decoration-break": {
-    "percentageOfPageLoad": 0.02860605,
+    "percentageOfPageLoad": 0.030159,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/218"
   },
   "box-shadow": {},
   "box-sizing": {},
   "br": {},
   "broadcast-channel": {
-    "percentageOfPageLoad": 0.15279893,
+    "percentageOfPageLoad": 0.14718996,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/14"
   },
   "brotli": {},
   "button": {},
   "calc": {},
   "calc-constants": {
-    "percentageOfPageLoad": 0.0056953,
+    "percentageOfPageLoad": 0.00582582,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/183"
   },
   "calc-size": {
-    "percentageOfPageLoad": 0.00224444,
+    "percentageOfPageLoad": 0.00258738,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/234"
   },
   "canvas": {
-    "percentageOfPageLoad": 0.47245864,
+    "percentageOfPageLoad": 0.47261109,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/200"
   },
   "canvas-2d": {
@@ -292,104 +292,104 @@
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/205"
   },
   "canvas-context-lost": {
-    "percentageOfPageLoad": 0.00084674,
+    "percentageOfPageLoad": 0.00085819,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/15"
   },
   "canvas-createconicgradient": {
-    "percentageOfPageLoad": 0.00003957,
+    "percentageOfPageLoad": 0.00003598,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/91"
   },
   "canvas-html": {
-    "percentageOfPageLoad": 0.000003,
+    "percentageOfPageLoad": 1.1e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/445"
   },
   "canvas-reset": {
-    "percentageOfPageLoad": 0.00015319,
+    "percentageOfPageLoad": 0.00013785,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/92"
   },
   "canvas-roundrect": {
-    "percentageOfPageLoad": 0.00185446,
+    "percentageOfPageLoad": 0.00196745,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/93"
   },
   "canvas_2d": {
-    "percentageOfPageLoad": 0.32018436,
+    "percentageOfPageLoad": 0.3160307,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/201"
   },
   "canvas_2d-alpha": {
-    "percentageOfPageLoad": 0.31952408,
+    "percentageOfPageLoad": 0.31536538,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/202"
   },
   "canvas_2d-color-management": {
-    "percentageOfPageLoad": 0.0038687,
+    "percentageOfPageLoad": 0.00361441,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/203"
   },
   "canvas_2d-desynchronized": {
-    "percentageOfPageLoad": 0.00372757,
+    "percentageOfPageLoad": 0.00364846,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/204"
   },
   "canvas_2d-willreadfrequently": {
-    "percentageOfPageLoad": 0.02740415,
+    "percentageOfPageLoad": 0.0282884,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/205"
   },
   "cap": {
-    "percentageOfPageLoad": 0.0005567,
+    "percentageOfPageLoad": 0.00061204,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/157"
   },
   "capture-stream-audio-video": {},
   "capture-stream-canvas": {},
   "caret-color": {},
   "cascade-layers": {
-    "percentageOfPageLoad": 0.05725047,
+    "percentageOfPageLoad": 0.0605615,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/5"
   },
   "case-insensitive-attributes": {},
   "case-sensitive-attributes": {},
   "ch": {
-    "percentageOfPageLoad": 0.11717723,
+    "percentageOfPageLoad": 0.11801592,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/206"
   },
   "change-event": {},
   "channel-messaging": {},
   "charset": {},
   "check-visibility": {
-    "percentageOfPageLoad": 0.04652765,
+    "percentageOfPageLoad": 0.04772609,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/133"
   },
   "cite": {},
   "class-syntax": {},
   "clear-site-data": {
-    "percentageOfPageLoad": 0.00307209,
+    "percentageOfPageLoad": 0.0033115,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/339"
   },
   "clip": {},
   "clip-path": {
-    "percentageOfPageLoad": 0.45072555,
+    "percentageOfPageLoad": 0.45408802,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/216"
   },
   "clip-path-animatable": {},
   "clip-path-boxes": {
-    "percentageOfPageLoad": 0.00061105,
+    "percentageOfPageLoad": 0.00061315,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/215"
   },
   "clipboard-custom-format": {
-    "percentageOfPageLoad": 0.00006406,
+    "percentageOfPageLoad": 0.00007501,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/271"
   },
   "clipboard-events": {},
   "clipboard-supports": {
-    "percentageOfPageLoad": 0.00152556,
+    "percentageOfPageLoad": 0.00163737,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/273"
   },
   "clipboard-svg": {
-    "percentageOfPageLoad": 5.1e-7,
+    "percentageOfPageLoad": 6.7e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/272"
   },
   "clipboard-unsanitized-formats": {
-    "percentageOfPageLoad": 0.00010879,
+    "percentageOfPageLoad": 0.00012466,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/123"
   },
   "closewatcher": {
-    "percentageOfPageLoad": 0.00052232,
+    "percentageOfPageLoad": 0.00064845,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/259"
   },
   "code": {},
@@ -397,16 +397,16 @@
   "color-adjust": {},
   "color-contrast": {},
   "color-function": {
-    "percentageOfPageLoad": 0.01515252,
+    "percentageOfPageLoad": 0.01600267,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/169"
   },
   "color-gamut": {},
   "color-mix": {
-    "percentageOfPageLoad": 0.15183188,
+    "percentageOfPageLoad": 0.15803573,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/95"
   },
   "color-scheme": {
-    "percentageOfPageLoad": 0.22533304,
+    "percentageOfPageLoad": 0.23175759,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/16"
   },
   "colrv0": {},
@@ -414,42 +414,42 @@
   "column-breaks": {},
   "column-fill": {},
   "column-pseudo": {
-    "percentageOfPageLoad": 1.7e-7,
+    "percentageOfPageLoad": 2.9e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/292"
   },
   "column-span": {},
   "composed-ranges": {
-    "percentageOfPageLoad": 0.00004231,
+    "percentageOfPageLoad": 0.00004468,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/314"
   },
   "composition-events": {},
   "compression-dictionary-transport": {
-    "percentageOfPageLoad": 0.10250013,
+    "percentageOfPageLoad": 0.10830431,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/315"
   },
   "compression-streams": {
-    "percentageOfPageLoad": 0.24625161,
+    "percentageOfPageLoad": 0.25204529,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/1"
   },
   "compute-pressure": {
-    "percentageOfPageLoad": 0.00203991,
+    "percentageOfPageLoad": 0.00217888,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/17"
   },
   "conic-gradients": {},
   "console": {},
   "constraint-validation": {},
   "constructed-stylesheets": {
-    "percentageOfPageLoad": 0.11544596,
+    "percentageOfPageLoad": 0.12218775,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/18"
   },
   "contact-picker": {},
   "contain": {},
   "contain-inline-size": {
-    "percentageOfPageLoad": 0.00075411,
+    "percentageOfPageLoad": 0.0007579,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/132"
   },
   "contain-intrinsic-size": {
-    "percentageOfPageLoad": 0.09279906,
+    "percentageOfPageLoad": 0.09454599,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/21"
   },
   "contain-layout": {},
@@ -457,37 +457,37 @@
   "contain-size": {},
   "contain-style": {},
   "container-queries": {
-    "percentageOfPageLoad": 0.22377294,
+    "percentageOfPageLoad": 0.22905542,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/19"
   },
   "container-scroll-state-queries": {
-    "percentageOfPageLoad": 0.00431556,
+    "percentageOfPageLoad": 0.00433369,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/280"
   },
   "container-style-queries": {
-    "percentageOfPageLoad": 0.00325571,
+    "percentageOfPageLoad": 0.00347938,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/20"
   },
   "content": {},
   "content-index": {},
   "content-visibility": {
-    "percentageOfPageLoad": 0.09862712,
+    "percentageOfPageLoad": 0.09831462,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/148"
   },
   "contenteditable": {},
   "contenteditable-plaintextonly": {},
   "context-fill-stroke": {
-    "percentageOfPageLoad": 0.00004953,
+    "percentageOfPageLoad": 0.00005617,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/155"
   },
   "contrast-color": {
-    "percentageOfPageLoad": 0.00026379,
+    "percentageOfPageLoad": 0.00025895,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/430"
   },
   "controls-list": {},
   "cookie-enabled": {},
   "cookie-store": {
-    "percentageOfPageLoad": 0.1148757,
+    "percentageOfPageLoad": 0.12088697,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/283"
   },
   "cookies": {},
@@ -495,11 +495,11 @@
   "cors": {},
   "counter-reset-reversed": {},
   "counter-set": {
-    "percentageOfPageLoad": 0.00437101,
+    "percentageOfPageLoad": 0.00438917,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/149"
   },
   "counter-style": {
-    "percentageOfPageLoad": 0.00390215,
+    "percentageOfPageLoad": 0.00415516,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/22"
   },
   "counters": {},
@@ -507,14 +507,14 @@
   "credential-management": {},
   "crisp-edges": {},
   "cross-document-view-transitions": {
-    "percentageOfPageLoad": 0.12220859,
+    "percentageOfPageLoad": 0.12381882,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/232"
   },
   "cross-fade": {},
   "csp": {},
   "css-escape": {},
   "css-modules": {
-    "percentageOfPageLoad": 0.00003086,
+    "percentageOfPageLoad": 0.00003376,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/23"
   },
   "css-object-model": {},
@@ -527,14 +527,14 @@
   "custom-ellipses": {},
   "custom-properties": {},
   "customizable-select": {
-    "percentageOfPageLoad": 0.00025408,
+    "percentageOfPageLoad": 0.0002582,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/342"
   },
   "customized-built-in-elements": {},
   "data": {},
   "data-urls": {},
   "datalist": {
-    "percentageOfPageLoad": 0.01639575,
+    "percentageOfPageLoad": 0.0164764,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/84"
   },
   "dataset": {},
@@ -542,11 +542,11 @@
   "date-get-year-set-year": {},
   "date-to-gmt-string": {},
   "declarative-shadow-dom": {
-    "percentageOfPageLoad": 0.00334912,
+    "percentageOfPageLoad": 0.00360401,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/24"
   },
   "declarative-webmcp": {
-    "percentageOfPageLoad": 0.00000569,
+    "percentageOfPageLoad": 0.00000434,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/432"
   },
   "dedicated-workers": {},
@@ -556,69 +556,69 @@
   "destructuring": {},
   "details": {},
   "details-content": {
-    "percentageOfPageLoad": 0.01138584,
+    "percentageOfPageLoad": 0.01257336,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/354"
   },
   "details-name": {
-    "percentageOfPageLoad": 0.00083446,
+    "percentageOfPageLoad": 0.00078614,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/114"
   },
   "device-memory": {},
   "device-orientation-events": {
-    "percentageOfPageLoad": 0.06979929,
+    "percentageOfPageLoad": 0.06730161,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/102"
   },
   "device-posture": {
-    "percentageOfPageLoad": 0.01053522,
+    "percentageOfPageLoad": 0.01096889,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/401"
   },
   "device-queries": {},
   "devicepixelratio": {},
   "dfn": {},
   "dialog": {
-    "percentageOfPageLoad": 0.11326185,
+    "percentageOfPageLoad": 0.11531419,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/25"
   },
   "dialog-closedby": {
-    "percentageOfPageLoad": 0.0017047,
+    "percentageOfPageLoad": 0.00252287,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/350"
   },
   "digital-credentials": {
-    "percentageOfPageLoad": 1.7e-7,
+    "percentageOfPageLoad": 1.3e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/435"
   },
   "digital-goods": {},
   "dir-pseudo": {
-    "percentageOfPageLoad": 0.09165633,
+    "percentageOfPageLoad": 0.09819835,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/85"
   },
   "dirname": {},
   "display": {},
   "display-animation": {
-    "percentageOfPageLoad": 0.03428563,
+    "percentageOfPageLoad": 0.03406037,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/233"
   },
   "display-contents": {},
   "display-flow-root": {},
   "display-list-item": {},
   "display-mode": {
-    "percentageOfPageLoad": 0.17223763,
+    "percentageOfPageLoad": 0.16999399,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/199"
   },
   "display-ruby": {},
   "display-table": {},
   "div": {},
   "document-caretpositionfrompoint": {
-    "percentageOfPageLoad": 0.05244024,
+    "percentageOfPageLoad": 0.05646774,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/144"
   },
   "document-colors": {},
   "document-modelcontext": {
-    "percentageOfPageLoad": 0.00847028,
+    "percentageOfPageLoad": 0.00904994,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/427"
   },
   "document-picture-in-picture": {
-    "percentageOfPageLoad": 0.00019509,
+    "percentageOfPageLoad": 0.00019792,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/26"
   },
   "document-write": {},
@@ -629,17 +629,17 @@
   "download": {},
   "draganddrop": {},
   "dynamic-range": {
-    "percentageOfPageLoad": 0.06243923,
+    "percentageOfPageLoad": 0.06482769,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/198"
   },
   "early-data": {},
   "edit-context": {
-    "percentageOfPageLoad": 0.00408014,
+    "percentageOfPageLoad": 0.0028031,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/125"
   },
   "element": {},
   "element-capture": {
-    "percentageOfPageLoad": 1.3e-7,
+    "percentageOfPageLoad": 1.5e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/321"
   },
   "element-from-point": {},
@@ -652,16 +652,19 @@
   "enterkeyhint": {},
   "error-cause": {},
   "escape-unescape": {},
-  "event-timing": {},
+  "event-timing": {
+    "percentageOfPageLoad": 0.373689,
+    "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/450"
+  },
   "events": {},
   "ex": {},
   "execcommand": {},
   "exp-functions": {
-    "percentageOfPageLoad": 0.00051453,
+    "percentageOfPageLoad": 0.00053299,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/184"
   },
   "explicit-resource-management": {
-    "percentageOfPageLoad": 0.00206216,
+    "percentageOfPageLoad": 0.0018505,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/308"
   },
   "exponentiation": {},
@@ -674,61 +677,61 @@
   "ext-shader-texture-lod": {},
   "ext-srgb": {},
   "ext-texture-compression-bptc": {
-    "percentageOfPageLoad": 0.00912624,
+    "percentageOfPageLoad": 0.00982715,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/381"
   },
   "ext-texture-compression-rgtc": {
-    "percentageOfPageLoad": 0.00875905,
+    "percentageOfPageLoad": 0.00953245,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/382"
   },
   "ext-texture-filter-anisotropic": {},
   "ext-texture-norm-16": {
-    "percentageOfPageLoad": 0.0024406,
+    "percentageOfPageLoad": 0.00237713,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/383"
   },
   "ext-texture-norm16": {},
   "external": {},
   "eyedropper": {
-    "percentageOfPageLoad": 0.00003305,
+    "percentageOfPageLoad": 0.00002955,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/130"
   },
   "fast-seek": {},
   "fedcm": {
-    "percentageOfPageLoad": 0.02612645,
+    "percentageOfPageLoad": 0.02608614,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/247"
   },
   "federated-credentials": {},
   "fencedframe": {
-    "percentageOfPageLoad": 0.00079625,
+    "percentageOfPageLoad": 0.00081018,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/284"
   },
   "fetch": {},
   "fetch-metadata": {},
   "fetch-priority": {
-    "percentageOfPageLoad": 0.40779931,
+    "percentageOfPageLoad": 0.44847942,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/268"
   },
   "fetch-request-streams": {
-    "percentageOfPageLoad": 0.00001993,
+    "percentageOfPageLoad": 0.0000234,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/398"
   },
   "fetchlater": {
-    "percentageOfPageLoad": 0.03819644,
+    "percentageOfPageLoad": 0.04102645,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/306"
   },
   "field-sizing": {
-    "percentageOfPageLoad": 0.01816581,
+    "percentageOfPageLoad": 0.01833242,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/113"
   },
   "fieldset": {},
   "figure": {},
   "file": {},
   "file-selector-button": {
-    "percentageOfPageLoad": 0.08521245,
+    "percentageOfPageLoad": 0.08675245,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/185"
   },
   "file-system-access": {
-    "percentageOfPageLoad": 0.00004195,
+    "percentageOfPageLoad": 0.00003816,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/258"
   },
   "filter": {},
@@ -738,15 +741,15 @@
   "fit-content-function": {},
   "fixed-positioning": {},
   "flex-wrap-balance": {
-    "percentageOfPageLoad": 0.0000057,
+    "percentageOfPageLoad": 0.00001528,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/438"
   },
   "flexbox": {
-    "percentageOfPageLoad": 0.84090257,
+    "percentageOfPageLoad": 0.84388854,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/28"
   },
   "flexbox-gap": {
-    "percentageOfPageLoad": 0.642707,
+    "percentageOfPageLoad": 0.642368,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/27"
   },
   "float-16array": {
@@ -755,12 +758,12 @@
   },
   "float-clear": {},
   "float16array": {
-    "percentageOfPageLoad": 0.03148986,
+    "percentageOfPageLoad": 0.03005836,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/298"
   },
   "focus-events": {},
   "focus-visible": {
-    "percentageOfPageLoad": 0.55916367,
+    "percentageOfPageLoad": 0.56863858,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/29"
   },
   "focus-within": {},
@@ -768,7 +771,7 @@
   "font-face": {},
   "font-family": {},
   "font-family-math": {
-    "percentageOfPageLoad": 0.00052545,
+    "percentageOfPageLoad": 0.00051592,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/351"
   },
   "font-family-system": {},
@@ -776,73 +779,73 @@
   "font-feature-settings": {},
   "font-kerning": {},
   "font-language-override": {
-    "percentageOfPageLoad": 0.01198993,
+    "percentageOfPageLoad": 0.01245924,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/411"
   },
   "font-loading": {},
   "font-metric-overrides": {
-    "percentageOfPageLoad": 0.1171976,
+    "percentageOfPageLoad": 0.1165609,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/353"
   },
   "font-optical-sizing": {
-    "percentageOfPageLoad": 0.03568878,
+    "percentageOfPageLoad": 0.0384401,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/30"
   },
   "font-palette": {
-    "percentageOfPageLoad": 0.00252604,
+    "percentageOfPageLoad": 0.00267285,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/32"
   },
   "font-palette-animation": {
-    "percentageOfPageLoad": 6.1e-7,
+    "percentageOfPageLoad": 5.4e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/31"
   },
   "font-shorthand": {},
   "font-size": {},
   "font-size-adjust": {
-    "percentageOfPageLoad": 0.02574378,
+    "percentageOfPageLoad": 0.02621701,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/220"
   },
   "font-stretch": {},
   "font-style": {},
   "font-synthesis": {
-    "percentageOfPageLoad": 0.02219511,
+    "percentageOfPageLoad": 0.02213125,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/36"
   },
   "font-synthesis-position": {},
   "font-synthesis-small-caps": {
-    "percentageOfPageLoad": 0.00053422,
+    "percentageOfPageLoad": 0.00052449,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/33"
   },
   "font-synthesis-style": {
-    "percentageOfPageLoad": 0.0008865,
+    "percentageOfPageLoad": 0.00092865,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/34"
   },
   "font-synthesis-weight": {
-    "percentageOfPageLoad": 0.0036899,
+    "percentageOfPageLoad": 0.00403438,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/35"
   },
   "font-variant": {},
   "font-variant-alternates": {
-    "percentageOfPageLoad": 0.00446166,
+    "percentageOfPageLoad": 0.00477254,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/37"
   },
   "font-variant-caps": {},
   "font-variant-east-asian": {},
   "font-variant-emoji": {
-    "percentageOfPageLoad": 0.00319992,
+    "percentageOfPageLoad": 0.00337067,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/285"
   },
   "font-variant-ligatures": {},
   "font-variant-numeric": {},
   "font-variant-position": {
-    "percentageOfPageLoad": 0.00449263,
+    "percentageOfPageLoad": 0.00479547,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/179"
   },
   "font-variation-settings": {},
   "font-weight": {},
   "font-width": {},
   "forced-colors": {
-    "percentageOfPageLoad": 0.35935133,
+    "percentageOfPageLoad": 0.36104785,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/165"
   },
   "form": {},
@@ -850,20 +853,20 @@
   "form-validity-pseudos": {},
   "fullscreen": {},
   "function": {
-    "percentageOfPageLoad": 0.00001243,
+    "percentageOfPageLoad": 0.00001276,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/310"
   },
   "functions": {},
   "functions-caller-arguments": {},
   "gamepad": {
-    "percentageOfPageLoad": 0.00001578,
+    "percentageOfPageLoad": 0.00001366,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/103"
   },
   "gamepad-haptics": {},
   "gamepad-touch": {},
   "gamepad-vr": {},
   "gap-decorations": {
-    "percentageOfPageLoad": 0.00119654,
+    "percentageOfPageLoad": 0.00119485,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/437"
   },
   "generators": {},
@@ -871,19 +874,19 @@
   "get-computed-style": {},
   "getboxquads": {},
   "gethtml": {
-    "percentageOfPageLoad": 0.00078757,
+    "percentageOfPageLoad": 0.00095636,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/286"
   },
   "globalthis": {},
   "glyph-orientation-vertical": {},
   "gpc": {},
   "gradient-interpolation": {
-    "percentageOfPageLoad": 0.01987207,
+    "percentageOfPageLoad": 0.02169433,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/178"
   },
   "gradients": {},
   "grid": {
-    "percentageOfPageLoad": 0.45404473,
+    "percentageOfPageLoad": 0.46171479,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/38"
   },
   "grid-animation": {},
@@ -891,11 +894,11 @@
   "hanging-punctuation": {},
   "hardware-concurrency": {},
   "has": {
-    "percentageOfPageLoad": 0.53658616,
+    "percentageOfPageLoad": 0.5419795,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/39"
   },
   "has-slotted": {
-    "percentageOfPageLoad": 0.000003,
+    "percentageOfPageLoad": 2e-8,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/320"
   },
   "hashbang-comments": {},
@@ -906,11 +909,11 @@
   "headings": {},
   "hgroup": {},
   "hidden-until-found": {
-    "percentageOfPageLoad": 0.00197821,
+    "percentageOfPageLoad": 0.00216144,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/86"
   },
   "highlight": {
-    "percentageOfPageLoad": 0.00033049,
+    "percentageOfPageLoad": 0.00035829,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/269"
   },
   "history": {},
@@ -922,15 +925,15 @@
   "html": {},
   "html-media-capture": {},
   "html-processing-instructions": {
-    "percentageOfPageLoad": 0.00113598,
+    "percentageOfPageLoad": 0.00110911,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/442"
   },
   "html-wrapper-methods": {
-    "percentageOfPageLoad": 0.06968647,
+    "percentageOfPageLoad": 0.07141636,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/394"
   },
   "http-3": {
-    "percentageOfPageLoad": 0.47503448,
+    "percentageOfPageLoad": 0.47342474,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/316"
   },
   "http-authentication": {},
@@ -938,37 +941,37 @@
   "http2": {},
   "http3": {},
   "hwb": {
-    "percentageOfPageLoad": 0.00290797,
+    "percentageOfPageLoad": 0.00262979,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/172"
   },
   "hyphenate-character": {
-    "percentageOfPageLoad": 0.0044462,
+    "percentageOfPageLoad": 0.00465295,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/211"
   },
   "hyphenate-limit-chars": {
-    "percentageOfPageLoad": 0.00231644,
+    "percentageOfPageLoad": 0.00246687,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/212"
   },
   "hyphens": {
-    "percentageOfPageLoad": 0.17545595,
+    "percentageOfPageLoad": 0.17637399,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/40"
   },
   "i": {},
   "ic": {
-    "percentageOfPageLoad": 0.0000033,
+    "percentageOfPageLoad": 0.00000352,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/159"
   },
   "idle-detection": {
-    "percentageOfPageLoad": 0.00022156,
+    "percentageOfPageLoad": 0.00022991,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/41"
   },
   "if": {
-    "percentageOfPageLoad": 0.00223788,
+    "percentageOfPageLoad": 0.00188983,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/311"
   },
   "iframe": {},
   "iframe-credentialless": {
-    "percentageOfPageLoad": 0.00071772,
+    "percentageOfPageLoad": 0.00084021,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/325"
   },
   "iframe-sandbox": {},
@@ -976,12 +979,12 @@
   "image-function": {},
   "image-maps": {},
   "image-orientation": {
-    "percentageOfPageLoad": 0.00279869,
+    "percentageOfPageLoad": 0.00298153,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/167"
   },
   "image-rendering": {},
   "image-set": {
-    "percentageOfPageLoad": 0.00554049,
+    "percentageOfPageLoad": 0.00563167,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/98"
   },
   "imagebitmaprenderingcontext": {},
@@ -990,27 +993,27 @@
   "import": {},
   "import-assertions": {},
   "import-maps": {
-    "percentageOfPageLoad": 0.01095686,
+    "percentageOfPageLoad": 0.01207327,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/42"
   },
   "indeterminate": {},
   "indexeddb": {},
   "individual-transforms": {
-    "percentageOfPageLoad": 0.23094332,
+    "percentageOfPageLoad": 0.24154429,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/43"
   },
   "inert": {
-    "percentageOfPageLoad": 0.05206918,
+    "percentageOfPageLoad": 0.05721033,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/128"
   },
   "inherit-value": {},
   "initial-letter": {
-    "percentageOfPageLoad": 0.00441114,
+    "percentageOfPageLoad": 0.00422125,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/210"
   },
   "initial-value": {},
   "ink": {
-    "percentageOfPageLoad": 0.00009012,
+    "percentageOfPageLoad": 0.00009564,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/263"
   },
   "input": {},
@@ -1035,97 +1038,97 @@
   "insertable-streams": {},
   "interaction": {},
   "interactivity": {
-    "percentageOfPageLoad": 0.00106547,
+    "percentageOfPageLoad": 0.00105642,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/293"
   },
   "interpolate-size": {
-    "percentageOfPageLoad": 0.10048235,
+    "percentageOfPageLoad": 0.0991733,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/235"
   },
   "intersection-observer": {
-    "percentageOfPageLoad": 0.56677167,
+    "percentageOfPageLoad": 0.57648183,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/45"
   },
   "intersection-observer-v2": {
-    "percentageOfPageLoad": 0.1008671,
+    "percentageOfPageLoad": 0.10147284,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/44"
   },
   "intl": {},
   "intl-display-names": {
-    "percentageOfPageLoad": 0.03736035,
+    "percentageOfPageLoad": 0.03547217,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/328"
   },
   "intl-duration-format": {
-    "percentageOfPageLoad": 0.00010331,
+    "percentageOfPageLoad": 0.00010783,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/266"
   },
   "intl-list-format": {},
   "intl-locale": {},
   "intl-locale-info": {
-    "percentageOfPageLoad": 0.01590374,
+    "percentageOfPageLoad": 0.01706308,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/244"
   },
   "intl-plural-rules": {},
   "intl-relative-time-format": {},
   "intl-segmenter": {
-    "percentageOfPageLoad": 0.02722475,
+    "percentageOfPageLoad": 0.02859293,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/129"
   },
   "inverted-colors": {},
   "invoker-commands": {},
   "is": {
-    "percentageOfPageLoad": 0.32292565,
+    "percentageOfPageLoad": 0.32672167,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/46"
   },
   "is-error": {
-    "percentageOfPageLoad": 0.01510629,
+    "percentageOfPageLoad": 0.01537001,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/270"
   },
   "is-input-pending": {},
   "is-secure-context": {},
   "isolation": {},
   "iterator-methods": {
-    "percentageOfPageLoad": 0.05690562,
+    "percentageOfPageLoad": 0.06073137,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/225"
   },
   "iterators": {},
   "javascript": {},
   "jpegxl": {
-    "percentageOfPageLoad": 3.9e-7,
+    "percentageOfPageLoad": 0.00899,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/418"
   },
   "js-modules": {
-    "percentageOfPageLoad": 0.38384906,
+    "percentageOfPageLoad": 0.39068844,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/47"
   },
   "js-modules-service-workers": {},
   "js-modules-shared-workers": {
-    "percentageOfPageLoad": 0.00489039,
+    "percentageOfPageLoad": 0.00562759,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/109"
   },
   "js-modules-workers": {
-    "percentageOfPageLoad": 0.01010178,
+    "percentageOfPageLoad": 0.01125943,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/110"
   },
   "json": {},
   "json-modules": {
-    "percentageOfPageLoad": 0.0000095,
+    "percentageOfPageLoad": 0.00001603,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/396"
   },
   "json-raw": {},
   "kbd": {},
   "keyboard-events": {},
   "keyboard-lock": {
-    "percentageOfPageLoad": 0.000095,
+    "percentageOfPageLoad": 0.00008156,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/119"
   },
   "keyboard-map": {
-    "percentageOfPageLoad": 0.08169864,
+    "percentageOfPageLoad": 0.08422402,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/116"
   },
   "khr-parallel-shader-compile": {},
   "lab": {
-    "percentageOfPageLoad": 0.01438058,
+    "percentageOfPageLoad": 0.01518892,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/171"
   },
   "label": {},
@@ -1133,43 +1136,46 @@
   "lang-attr": {},
   "language": {},
   "language-detector": {
-    "percentageOfPageLoad": 0.00218439,
+    "percentageOfPageLoad": 0.00244908,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/425"
   },
   "language-model": {
-    "percentageOfPageLoad": 0.00000186,
+    "percentageOfPageLoad": 0.00000241,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/420"
   },
-  "largest-contentful-paint": {},
+  "largest-contentful-paint": {
+    "percentageOfPageLoad": 0.375669,
+    "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/449"
+  },
   "layout-direction-override": {},
   "layout-instability": {
-    "percentageOfPageLoad": 0.42480627,
+    "percentageOfPageLoad": 0.43008963,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/277"
   },
   "let-const": {},
   "letter-spacing": {},
   "lh": {
-    "percentageOfPageLoad": 0.01283206,
+    "percentageOfPageLoad": 0.01429788,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/161"
   },
   "light-dark": {
-    "percentageOfPageLoad": 0.0128055,
+    "percentageOfPageLoad": 0.01366516,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/337"
   },
   "line-break": {
-    "percentageOfPageLoad": 0.05664389,
+    "percentageOfPageLoad": 0.05905962,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/335"
   },
   "line-clamp": {},
   "line-height": {},
   "linear-easing": {
-    "percentageOfPageLoad": 0.13757131,
+    "percentageOfPageLoad": 0.13819803,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/186"
   },
   "link": {},
   "link-rel-dns-prefetch": {},
   "link-rel-expect": {
-    "percentageOfPageLoad": 0.11336968,
+    "percentageOfPageLoad": 0.11404662,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/340"
   },
   "link-rel-preconnect": {},
@@ -1180,26 +1186,26 @@
   "list-style": {},
   "loading-lazy": {},
   "loading-lazy-media": {
-    "percentageOfPageLoad": 0.00066473,
+    "percentageOfPageLoad": 0.00071125,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/428"
   },
   "local-fonts": {
-    "percentageOfPageLoad": 0.00001053,
+    "percentageOfPageLoad": 0.00001175,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/287"
   },
   "local-network-access": {},
   "localstorage": {},
   "location": {},
   "logical-assignments": {
-    "percentageOfPageLoad": 0.26476067,
+    "percentageOfPageLoad": 0.27347266,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/378"
   },
   "logical-properties": {
-    "percentageOfPageLoad": 0.38994441,
+    "percentageOfPageLoad": 0.39114822,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/168"
   },
   "long-animation-frames": {
-    "percentageOfPageLoad": 0.36555896,
+    "percentageOfPageLoad": 0.36908048,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/236"
   },
   "longtasks": {},
@@ -1207,11 +1213,11 @@
   "main": {},
   "managed-media-source": {},
   "manifest": {
-    "percentageOfPageLoad": 0.22608021,
+    "percentageOfPageLoad": 0.22351723,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/302"
   },
   "manifest-localization": {
-    "percentageOfPageLoad": 0.00000522,
+    "percentageOfPageLoad": 0.00000675,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/429"
   },
   "map": {},
@@ -1219,43 +1225,43 @@
   "margin-trim": {},
   "mark": {},
   "marker": {
-    "percentageOfPageLoad": 0.13648197,
+    "percentageOfPageLoad": 0.13909739,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/197"
   },
   "mask-border": {},
   "mask-type": {},
   "masks": {
-    "percentageOfPageLoad": 0.39877387,
+    "percentageOfPageLoad": 0.4038617,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/101"
   },
   "masonry": {},
   "matchmedia": {},
   "math-sum-precise": {},
   "mathml": {
-    "percentageOfPageLoad": 0.00287309,
+    "percentageOfPageLoad": 0.00244387,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/90"
   },
   "measure-memory": {
-    "percentageOfPageLoad": 0.00167588,
+    "percentageOfPageLoad": 0.00163546,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/288"
   },
   "media-capabilities": {},
   "media-capture": {},
   "media-playback-quality": {
-    "percentageOfPageLoad": 0.05759225,
+    "percentageOfPageLoad": 0.06058565,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/289"
   },
   "media-pseudos": {
-    "percentageOfPageLoad": 4e-8,
+    "percentageOfPageLoad": 5e-8,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/436"
   },
   "media-queries": {},
   "media-query-range-syntax": {
-    "percentageOfPageLoad": 0.11815646,
+    "percentageOfPageLoad": 0.12213523,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/145"
   },
   "media-session": {
-    "percentageOfPageLoad": 0.02841623,
+    "percentageOfPageLoad": 0.0304011,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/48"
   },
   "media-source": {},
@@ -1265,11 +1271,11 @@
   "messageerror": {},
   "meta": {},
   "meta-application-title": {
-    "percentageOfPageLoad": 0.00000195,
+    "percentageOfPageLoad": 0.00000253,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/349"
   },
   "meta-text-scale": {
-    "percentageOfPageLoad": 0.00372021,
+    "percentageOfPageLoad": 0.00427413,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/417"
   },
   "meta-theme-color": {},
@@ -1280,17 +1286,17 @@
   "mix-blend-mode": {},
   "mixed-content": {},
   "modal": {
-    "percentageOfPageLoad": 0.02486145,
+    "percentageOfPageLoad": 0.02771512,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/187"
   },
   "modulepreload": {},
   "motion-path": {
-    "percentageOfPageLoad": 0.00415856,
+    "percentageOfPageLoad": 0.00425609,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/188"
   },
   "mouse-events": {},
   "move-before": {
-    "percentageOfPageLoad": 0.00039915,
+    "percentageOfPageLoad": 0.00053323,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/229"
   },
   "multi-column": {},
@@ -1300,7 +1306,7 @@
   "namespace": {},
   "nav": {},
   "navigation": {
-    "percentageOfPageLoad": 0.00262708,
+    "percentageOfPageLoad": 0.00261133,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/89"
   },
   "navigation-timing": {},
@@ -1310,28 +1316,28 @@
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/427"
   },
   "nesting": {
-    "percentageOfPageLoad": 0.09388657,
+    "percentageOfPageLoad": 0.09333207,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/163"
   },
   "network-information": {},
   "non-cookie-storage-access": {
-    "percentageOfPageLoad": 0.02372313,
+    "percentageOfPageLoad": 0.02492818,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/265"
   },
   "not": {
-    "percentageOfPageLoad": 0.82987483,
+    "percentageOfPageLoad": 0.83623853,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/343"
   },
   "notifications": {},
   "notifications-apps": {},
   "nth-child": {},
   "nth-child-of": {
-    "percentageOfPageLoad": 0.07995291,
+    "percentageOfPageLoad": 0.08414016,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/164"
   },
   "nth-of-type": {},
   "nullish-coalescing": {
-    "percentageOfPageLoad": 0.46833552,
+    "percentageOfPageLoad": 0.47739006,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/379"
   },
   "number": {},
@@ -1343,16 +1349,16 @@
   "object-object": {},
   "object-position": {},
   "object-view-box": {
-    "percentageOfPageLoad": 0.00075834,
+    "percentageOfPageLoad": 0.00075615,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/156"
   },
   "observable": {
-    "percentageOfPageLoad": 2.5e-7,
+    "percentageOfPageLoad": 3e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/348"
   },
   "oes-element-index-uint": {},
   "oes-fbo-render-mipmap": {
-    "percentageOfPageLoad": 0.01345618,
+    "percentageOfPageLoad": 0.01646071,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/384"
   },
   "oes-standard-derivatives": {},
@@ -1362,15 +1368,15 @@
   "oes-texture-half-float-linear": {},
   "oes-vertex-array-object": {},
   "offline-audio-context": {
-    "percentageOfPageLoad": 0.06750707,
+    "percentageOfPageLoad": 0.06964872,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/151"
   },
   "offscreen-canvas": {
-    "percentageOfPageLoad": 0.08548786,
+    "percentageOfPageLoad": 0.08624808,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/49"
   },
   "oklab": {
-    "percentageOfPageLoad": 0.02938558,
+    "percentageOfPageLoad": 0.0323114,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/170"
   },
   "online": {},
@@ -1380,33 +1386,33 @@
   "optional-catch-binding": {},
   "orientation-sensor": {},
   "origin-private-file-system": {
-    "percentageOfPageLoad": 0.02503631,
+    "percentageOfPageLoad": 0.02457729,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/50"
   },
   "outline": {
-    "percentageOfPageLoad": 0.77058678,
+    "percentageOfPageLoad": 0.77310667,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/189"
   },
   "outlines": {},
   "output": {},
   "overflow": {
-    "percentageOfPageLoad": 0.08662133,
+    "percentageOfPageLoad": 0.09128849,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/190"
   },
   "overflow-anchor": {},
   "overflow-clip": {
-    "percentageOfPageLoad": 0.22815867,
+    "percentageOfPageLoad": 0.23322167,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/336"
   },
   "overflow-clip-margin": {},
   "overflow-overlay": {},
   "overflow-shorthand": {
-    "percentageOfPageLoad": 0.17926526,
+    "percentageOfPageLoad": 0.17936338,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/112"
   },
   "overflow-wrap": {},
   "overlay": {
-    "percentageOfPageLoad": 0.00114219,
+    "percentageOfPageLoad": 0.00111908,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/134"
   },
   "overscroll-behavior": {},
@@ -1417,7 +1423,7 @@
   "page-breaks": {},
   "page-lifecycle": {},
   "page-orientation": {
-    "percentageOfPageLoad": 0.00339079,
+    "percentageOfPageLoad": 0.00246419,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/219"
   },
   "page-selectors": {},
@@ -1425,21 +1431,21 @@
   "page-transition-events": {},
   "page-visibility": {},
   "page-visibility-state": {
-    "percentageOfPageLoad": 0.0033399,
+    "percentageOfPageLoad": 0.00350028,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/237"
   },
   "paint": {},
   "paint-order": {
-    "percentageOfPageLoad": 0.016045,
+    "percentageOfPageLoad": 0.01617947,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/126"
   },
   "paint-timing": {},
   "parse-html-unsafe": {
-    "percentageOfPageLoad": 0.00107769,
+    "percentageOfPageLoad": 0.00112795,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/122"
   },
   "partitioned-cookies": {
-    "percentageOfPageLoad": 0.31948038,
+    "percentageOfPageLoad": 0.33196112,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/419"
   },
   "password-credentials": {},
@@ -1447,7 +1453,7 @@
   "payment-handler": {},
   "payment-request": {},
   "pdf-viewer": {
-    "percentageOfPageLoad": 0.06520238,
+    "percentageOfPageLoad": 0.07058214,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/257"
   },
   "performance": {},
@@ -1457,7 +1463,7 @@
   "physical-properties": {},
   "picture": {},
   "picture-in-picture": {
-    "percentageOfPageLoad": 0.00015697,
+    "percentageOfPageLoad": 0.00016927,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/51"
   },
   "ping": {},
@@ -1466,15 +1472,15 @@
   "pointer-events": {},
   "pointer-events-api": {},
   "pointer-lock": {
-    "percentageOfPageLoad": 0.00066748,
+    "percentageOfPageLoad": 0.00061357,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/52"
   },
   "popover": {
-    "percentageOfPageLoad": 0.03641591,
+    "percentageOfPageLoad": 0.03905439,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/374"
   },
   "popover-hint": {
-    "percentageOfPageLoad": 0.00432013,
+    "percentageOfPageLoad": 0.00458385,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/296"
   },
   "portal": {},
@@ -1483,47 +1489,47 @@
   "pre": {},
   "prefers-color-scheme": {},
   "prefers-contrast": {
-    "percentageOfPageLoad": 0.26410535,
+    "percentageOfPageLoad": 0.26813887,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/174"
   },
   "prefers-reduced-data": {},
   "prefers-reduced-motion": {},
   "prefers-reduced-transparency": {
-    "percentageOfPageLoad": 0.04939351,
+    "percentageOfPageLoad": 0.05349432,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/175"
   },
   "preloading-responsive-images": {},
   "presentation-api": {},
   "preserves-pitch": {
-    "percentageOfPageLoad": 0.00029453,
+    "percentageOfPageLoad": 0.00032505,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/249"
   },
   "print": {},
   "print-color-adjust": {
-    "percentageOfPageLoad": 0.02944871,
+    "percentageOfPageLoad": 0.03055669,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/330"
   },
   "print-events": {},
   "private-click-measurement": {},
   "private-network-access": {},
   "profiler": {
-    "percentageOfPageLoad": 0.00022309,
+    "percentageOfPageLoad": 0.00023912,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/278"
   },
   "progress": {},
   "promise": {},
   "promise-allsettled": {},
   "promise-any": {
-    "percentageOfPageLoad": 0.02300632,
+    "percentageOfPageLoad": 0.02227359,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/226"
   },
   "promise-finally": {},
   "promise-try": {
-    "percentageOfPageLoad": 0.04281955,
+    "percentageOfPageLoad": 0.04497017,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/251"
   },
   "promise-withresolvers": {
-    "percentageOfPageLoad": 0.03319975,
+    "percentageOfPageLoad": 0.03479635,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/240"
   },
   "prompt": {
@@ -1536,93 +1542,93 @@
   "q": {},
   "q-unit": {},
   "quotes": {
-    "percentageOfPageLoad": 0.0832216,
+    "percentageOfPageLoad": 0.08494281,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/213"
   },
   "rcap": {
-    "percentageOfPageLoad": 0.00001748,
+    "percentageOfPageLoad": 0.00001286,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/158"
   },
   "rch": {
-    "percentageOfPageLoad": 0.00000111,
+    "percentageOfPageLoad": 9.1e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/207"
   },
   "read-write-pseudos": {},
   "readable-byte-streams": {
-    "percentageOfPageLoad": 0.00019221,
+    "percentageOfPageLoad": 0.00039414,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/400"
   },
   "readablestream-from": {},
   "reading-flow": {
-    "percentageOfPageLoad": 0.00198932,
+    "percentageOfPageLoad": 0.00222986,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/313"
   },
   "referencetarget": {
-    "percentageOfPageLoad": 0.211069,
+    "percentageOfPageLoad": 0.20060674,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/246"
   },
   "referrer-policy": {
-    "percentageOfPageLoad": 0.37167875,
+    "percentageOfPageLoad": 0.37641674,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/260"
   },
   "regexp": {},
   "regexp-compile": {
-    "percentageOfPageLoad": 0.00214382,
+    "percentageOfPageLoad": 0.00226479,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/392"
   },
   "regexp-escape": {
-    "percentageOfPageLoad": 0.01510742,
+    "percentageOfPageLoad": 0.01509178,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/297"
   },
   "regexp-static-properties": {
-    "percentageOfPageLoad": 0.05555087,
+    "percentageOfPageLoad": 0.05887947,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/395"
   },
   "region-capture": {
-    "percentageOfPageLoad": 0.00008041,
+    "percentageOfPageLoad": 0.0002216,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/322"
   },
   "registered-custom-properties": {
-    "percentageOfPageLoad": 0.16780312,
+    "percentageOfPageLoad": 0.17517417,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/146"
   },
   "registerprotocolhandler": {},
   "relative-color": {
-    "percentageOfPageLoad": 0.12415074,
+    "percentageOfPageLoad": 0.12823745,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/53"
   },
   "relative-positioning": {},
   "rem": {},
   "remote-playback": {
-    "percentageOfPageLoad": 0.00350337,
+    "percentageOfPageLoad": 0.00355051,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/255"
   },
   "reporting": {
-    "percentageOfPageLoad": 0.24518666,
+    "percentageOfPageLoad": 0.25115558,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/410"
   },
   "request-animation-frame": {
-    "percentageOfPageLoad": 0.6349036,
+    "percentageOfPageLoad": 0.64372191,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/323"
   },
   "request-animation-frame-workers": {
-    "percentageOfPageLoad": 0.00157259,
+    "percentageOfPageLoad": 0.0016064,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/324"
   },
   "request-video-frame-callback": {
-    "percentageOfPageLoad": 0.01266548,
+    "percentageOfPageLoad": 0.01296377,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/154"
   },
   "requestclose": {
-    "percentageOfPageLoad": 0.00000456,
+    "percentageOfPageLoad": 0.00000468,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/333"
   },
   "requestidlecallback": {
-    "percentageOfPageLoad": 0.55065225,
+    "percentageOfPageLoad": 0.55948924,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/338"
   },
   "resizable-buffers": {
-    "percentageOfPageLoad": 0.01518734,
+    "percentageOfPageLoad": 0.01616923,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/221"
   },
   "resize": {},
@@ -1632,7 +1638,7 @@
   "resource-size": {},
   "resource-timing": {},
   "revert-value": {
-    "percentageOfPageLoad": 0.03180578,
+    "percentageOfPageLoad": 0.03257193,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/173"
   },
   "rewriter": {
@@ -1647,22 +1653,22 @@
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/160"
   },
   "rlh": {
-    "percentageOfPageLoad": 0.00003111,
+    "percentageOfPageLoad": 0.00003162,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/162"
   },
   "root": {},
   "round-mod-rem": {
-    "percentageOfPageLoad": 0.04395285,
+    "percentageOfPageLoad": 0.0467925,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/176"
   },
   "ruby": {},
   "ruby-align": {
-    "percentageOfPageLoad": 0.00572286,
+    "percentageOfPageLoad": 0.00850003,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/208"
   },
   "ruby-overhang": {},
   "ruby-position": {
-    "percentageOfPageLoad": 0.00260091,
+    "percentageOfPageLoad": 0.00280543,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/209"
   },
   "s": {},
@@ -1671,11 +1677,11 @@
   "sanitizer": {},
   "savedata": {},
   "scheduler": {
-    "percentageOfPageLoad": 0.12698417,
+    "percentageOfPageLoad": 0.12979005,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/118"
   },
   "scope": {
-    "percentageOfPageLoad": 0.00540935,
+    "percentageOfPageLoad": 0.00609701,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/54"
   },
   "scope-pseudo": {},
@@ -1685,63 +1691,63 @@
   "screen-orientation": {},
   "screen-orientation-lock": {},
   "screen-wake-lock": {
-    "percentageOfPageLoad": 0.01455556,
+    "percentageOfPageLoad": 0.01540015,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/104"
   },
   "script": {},
   "scripting": {
-    "percentageOfPageLoad": 0.00795239,
+    "percentageOfPageLoad": 0.00846867,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/344"
   },
   "scroll-behavior": {},
   "scroll-buttons": {
-    "percentageOfPageLoad": 0.00006026,
+    "percentageOfPageLoad": 0.00005872,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/294"
   },
   "scroll-driven-animations": {
-    "percentageOfPageLoad": 0.05667585,
+    "percentageOfPageLoad": 0.06098612,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/230"
   },
   "scroll-elements": {},
   "scroll-initial-target": {
-    "percentageOfPageLoad": 0.00117197,
+    "percentageOfPageLoad": 0.00120578,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/319"
   },
   "scroll-into-view": {},
   "scroll-markers": {
-    "percentageOfPageLoad": 0.00109787,
+    "percentageOfPageLoad": 0.00111887,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/295"
   },
   "scroll-snap": {
-    "percentageOfPageLoad": 0.19127979,
+    "percentageOfPageLoad": 0.19810233,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/59"
   },
   "scroll-snap-events": {
-    "percentageOfPageLoad": 0.00260587,
+    "percentageOfPageLoad": 0.00296657,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/228"
   },
   "scroll-to-text-fragment": {
-    "percentageOfPageLoad": 0.00008464,
+    "percentageOfPageLoad": 0.00007325,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/60"
   },
   "scrollbar-color": {
-    "percentageOfPageLoad": 0.20612092,
+    "percentageOfPageLoad": 0.21130061,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/55"
   },
   "scrollbar-gutter": {
-    "percentageOfPageLoad": 0.1612117,
+    "percentageOfPageLoad": 0.16271791,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/56"
   },
   "scrollbar-width": {
-    "percentageOfPageLoad": 0.42967453,
+    "percentageOfPageLoad": 0.43441089,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/57"
   },
   "scrollend": {
-    "percentageOfPageLoad": 0.27390503,
+    "percentageOfPageLoad": 0.28765921,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/58"
   },
   "search": {
-    "percentageOfPageLoad": 0.00267229,
+    "percentageOfPageLoad": 0.00280769,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/120"
   },
   "search-input-type": {},
@@ -1752,7 +1758,7 @@
   "selection-api": {},
   "selectors": {},
   "serial": {
-    "percentageOfPageLoad": 0.00001376,
+    "percentageOfPageLoad": 0.00001917,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/107"
   },
   "serializable-errors": {},
@@ -1761,7 +1767,7 @@
   "service-workers": {},
   "set": {},
   "set-methods": {
-    "percentageOfPageLoad": 0.05591766,
+    "percentageOfPageLoad": 0.05975429,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/227"
   },
   "setinterval": {},
@@ -1776,25 +1782,25 @@
   "shared-storage-locks": {},
   "shared-workers": {},
   "show-picker-input": {
-    "percentageOfPageLoad": 0.00002579,
+    "percentageOfPageLoad": 0.00002763,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/61"
   },
   "show-picker-select": {
-    "percentageOfPageLoad": 0.00000438,
+    "percentageOfPageLoad": 0.00000432,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/127"
   },
   "sibling-count": {},
   "single-color-gradients": {},
   "sizes-auto": {
-    "percentageOfPageLoad": 0.0101545,
+    "percentageOfPageLoad": 0.0101845,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/346"
   },
   "slot": {
-    "percentageOfPageLoad": 0.53870043,
+    "percentageOfPageLoad": 0.54554221,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/62"
   },
   "slot-assign": {
-    "percentageOfPageLoad": 0.00020858,
+    "percentageOfPageLoad": 0.00022059,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/100"
   },
   "small": {},
@@ -1806,43 +1812,43 @@
   "speak": {},
   "speak-as": {},
   "speculation-rules": {
-    "percentageOfPageLoad": 0.12691376,
+    "percentageOfPageLoad": 0.12856752,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/317"
   },
   "speech-recognition": {
-    "percentageOfPageLoad": 0.00014808,
+    "percentageOfPageLoad": 0.00015203,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/63"
   },
   "speech-recognition-grammar": {},
   "speech-synthesis": {
-    "percentageOfPageLoad": 0.00041236,
+    "percentageOfPageLoad": 0.00038519,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/64"
   },
   "spellcheck": {},
   "spelling-grammar-error": {
-    "percentageOfPageLoad": 0.0054974,
+    "percentageOfPageLoad": 0.006072,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/192"
   },
   "spread": {},
   "srcset": {},
   "stable-array-sort": {},
   "starting-style": {
-    "percentageOfPageLoad": 0.03259775,
+    "percentageOfPageLoad": 0.03453334,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/143"
   },
   "state": {
-    "percentageOfPageLoad": 0.00140605,
+    "percentageOfPageLoad": 0.00137873,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/329"
   },
   "static-positioning": {},
   "steps-easing": {},
   "sticky-positioning": {},
   "storage-access": {
-    "percentageOfPageLoad": 0.04561629,
+    "percentageOfPageLoad": 0.04732978,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/65"
   },
   "storage-buckets": {
-    "percentageOfPageLoad": 0.00250363,
+    "percentageOfPageLoad": 0.00263733,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/66"
   },
   "storage-manager": {},
@@ -1857,30 +1863,30 @@
   "string-raw": {},
   "string-repeat": {},
   "string-replaceall": {
-    "percentageOfPageLoad": 0.31980693,
+    "percentageOfPageLoad": 0.32543985,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/252"
   },
   "string-startsends-with": {},
   "string-trim-startend": {},
   "string-wellformed": {
-    "percentageOfPageLoad": 0.06359784,
+    "percentageOfPageLoad": 0.06721407,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/253"
   },
   "strings": {},
   "strong": {},
   "structured-clone": {
-    "percentageOfPageLoad": 0.21438866,
+    "percentageOfPageLoad": 0.2129231,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/99"
   },
   "style": {},
   "style-attr": {},
   "sub-sup": {},
   "subgrid": {
-    "percentageOfPageLoad": 0.00507174,
+    "percentageOfPageLoad": 0.00535983,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/4"
   },
   "summarizer": {
-    "percentageOfPageLoad": 0.00000386,
+    "percentageOfPageLoad": 0.00000436,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/415"
   },
   "supports": {},
@@ -1896,16 +1902,16 @@
   "table-discouraged": {},
   "target": {},
   "target-text": {
-    "percentageOfPageLoad": 0.00045161,
+    "percentageOfPageLoad": 0.00049334,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/67"
   },
   "target-within": {},
   "template": {
-    "percentageOfPageLoad": 0.36086594,
+    "percentageOfPageLoad": 0.36551289,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/68"
   },
   "template-for": {
-    "percentageOfPageLoad": 0.00057426,
+    "percentageOfPageLoad": 0.00054611,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/441"
   },
   "template-literals": {},
@@ -1914,7 +1920,7 @@
   "text-align-last": {},
   "text-autospace": {},
   "text-box": {
-    "percentageOfPageLoad": 0.01064652,
+    "percentageOfPageLoad": 0.01198964,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/318"
   },
   "text-combine-upright": {},
@@ -1930,22 +1936,22 @@
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/413"
   },
   "text-emphasis": {
-    "percentageOfPageLoad": 0.00191944,
+    "percentageOfPageLoad": 0.00199508,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/180"
   },
   "text-encoding": {},
   "text-fit": {
-    "percentageOfPageLoad": 0.00085644,
+    "percentageOfPageLoad": 0.00085714,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/439"
   },
   "text-indent": {
-    "percentageOfPageLoad": 0.34081285,
+    "percentageOfPageLoad": 0.34899214,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/69"
   },
   "text-indent-each-line": {},
   "text-indent-hanging": {},
   "text-justify": {
-    "percentageOfPageLoad": 0.01064218,
+    "percentageOfPageLoad": 0.01190408,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/414"
   },
   "text-orientation": {},
@@ -1953,67 +1959,67 @@
   "text-shadow": {},
   "text-size-adjust": {},
   "text-spacing-trim": {
-    "percentageOfPageLoad": 0.00713329,
+    "percentageOfPageLoad": 0.00667122,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/70"
   },
   "text-stroke-fill": {},
   "text-tracks": {},
   "text-transform": {},
   "text-underline-offset": {
-    "percentageOfPageLoad": 0.192204,
+    "percentageOfPageLoad": 0.19750536,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/331"
   },
   "text-underline-position": {},
   "text-wrap": {
-    "percentageOfPageLoad": 0.23550633,
+    "percentageOfPageLoad": 0.23915484,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/181"
   },
   "text-wrap-balance": {
-    "percentageOfPageLoad": 0.02718585,
+    "percentageOfPageLoad": 0.0291214,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/71"
   },
   "text-wrap-mode": {},
   "text-wrap-nowrap": {},
   "text-wrap-pretty": {
-    "percentageOfPageLoad": 0.03945842,
+    "percentageOfPageLoad": 0.04519868,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/72"
   },
   "text-wrap-stable": {},
   "text-wrap-style": {
-    "percentageOfPageLoad": 0.00936098,
+    "percentageOfPageLoad": 0.00980257,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/182"
   },
   "textarea": {},
   "time": {},
   "time-relative-selectors": {
-    "percentageOfPageLoad": 0.00117087,
+    "percentageOfPageLoad": 0.00135006,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/355"
   },
   "title": {},
   "title-attr": {},
   "top-level-await": {
-    "percentageOfPageLoad": 0.013301,
+    "percentageOfPageLoad": 0.01394764,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/376"
   },
   "touch-action": {},
   "touch-events": {},
   "transferable-arraybuffer": {
-    "percentageOfPageLoad": 0.00058522,
+    "percentageOfPageLoad": 0.00048653,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/241"
   },
   "transferable-streams": {
-    "percentageOfPageLoad": 0.00103667,
+    "percentageOfPageLoad": 0.00107865,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/399"
   },
   "transform-box": {
-    "percentageOfPageLoad": 0.02701954,
+    "percentageOfPageLoad": 0.03209001,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/194"
   },
   "transforms2d": {},
   "transforms3d": {},
   "transformstream-transformer-cancel": {},
   "transition-behavior": {
-    "percentageOfPageLoad": 0.02247511,
+    "percentageOfPageLoad": 0.02437903,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/73"
   },
   "transitions": {},
@@ -2023,16 +2029,16 @@
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/416"
   },
   "translator": {
-    "percentageOfPageLoad": 0.00000352,
+    "percentageOfPageLoad": 0.00000945,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/426"
   },
   "trig-functions": {
-    "percentageOfPageLoad": 0.01066952,
+    "percentageOfPageLoad": 0.01134843,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/177"
   },
   "trusted-types": {},
   "two-value-display": {
-    "percentageOfPageLoad": 0.00501316,
+    "percentageOfPageLoad": 0.00477903,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/111"
   },
   "typed-array-iteration-methods": {},
@@ -2040,67 +2046,67 @@
   "typed-arrays": {},
   "u": {},
   "ua-client-hints": {
-    "percentageOfPageLoad": 0.77261766,
+    "percentageOfPageLoad": 0.79617187,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/341"
   },
   "uint-8array-base-64hex": {
-    "percentageOfPageLoad": 0.02823877,
+    "percentageOfPageLoad": 0.02958305,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/334"
   },
   "uint8array-base64-hex": {},
   "unicode-point-escapes": {},
   "unset-value": {},
   "update": {
-    "percentageOfPageLoad": 0.00910993,
+    "percentageOfPageLoad": 0.00889114,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/195"
   },
   "upgrade-insecure-requests": {},
   "url": {},
   "url-canparse": {
-    "percentageOfPageLoad": 0.05777871,
+    "percentageOfPageLoad": 0.06026205,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/261"
   },
   "urlpattern": {
-    "percentageOfPageLoad": 0.02428088,
+    "percentageOfPageLoad": 0.02259432,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/326"
   },
   "user-action-pseudos": {},
   "user-activation": {},
   "user-agent-sniffing": {},
   "user-pseudos": {
-    "percentageOfPageLoad": 0.0019422,
+    "percentageOfPageLoad": 0.00208238,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/75"
   },
   "user-select": {},
   "var": {},
   "vertical-align": {},
   "vertical-form-controls": {
-    "percentageOfPageLoad": 0.00049603,
+    "percentageOfPageLoad": 0.00051774,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/256"
   },
   "vibration": {},
   "video": {},
   "video-dynamic-range": {},
   "view-transition-class": {
-    "percentageOfPageLoad": 0.00247614,
+    "percentageOfPageLoad": 0.00266304,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/245"
   },
   "view-transitions": {
-    "percentageOfPageLoad": 0.01172544,
+    "percentageOfPageLoad": 0.01183827,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/2"
   },
   "view-transitions-element-scoped": {
-    "percentageOfPageLoad": 0.0024885,
+    "percentageOfPageLoad": 0.00240839,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/281"
   },
   "viewport-segments": {},
   "viewport-unit-variants": {
-    "percentageOfPageLoad": 0.19155717,
+    "percentageOfPageLoad": 0.19588671,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/250"
   },
   "viewport-units": {},
   "virtual-keyboard": {
-    "percentageOfPageLoad": 0.00356615,
+    "percentageOfPageLoad": 0.00369811,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/264"
   },
   "virtual-pressure-sources": {},
@@ -2110,15 +2116,15 @@
   "wasm": {},
   "wasm-bigint": {},
   "wasm-bulk-memory": {
-    "percentageOfPageLoad": 0.01567495,
+    "percentageOfPageLoad": 0.01606481,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/369"
   },
   "wasm-exception-handling": {
-    "percentageOfPageLoad": 0.00428734,
+    "percentageOfPageLoad": 0.00439871,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/356"
   },
   "wasm-exnref-exceptions": {
-    "percentageOfPageLoad": 0.00002184,
+    "percentageOfPageLoad": 0.00001007,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/367"
   },
   "wasm-extended-constant-expressions": {
@@ -2126,136 +2132,136 @@
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/357"
   },
   "wasm-garbage-collection": {
-    "percentageOfPageLoad": 0.00340438,
+    "percentageOfPageLoad": 0.00343576,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/358"
   },
   "wasm-memory-64": {
-    "percentageOfPageLoad": 0.00000152,
+    "percentageOfPageLoad": 9.6e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/366"
   },
   "wasm-memory64": {},
   "wasm-multi-memory": {
-    "percentageOfPageLoad": 0.00002099,
+    "percentageOfPageLoad": 0.00000957,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/359"
   },
   "wasm-multi-value": {
-    "percentageOfPageLoad": 0.00285356,
+    "percentageOfPageLoad": 0.00343946,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/368"
   },
   "wasm-mutable-globals": {
-    "percentageOfPageLoad": 0.00057542,
+    "percentageOfPageLoad": 0.00067898,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/370"
   },
   "wasm-non-trapping-float-to-int": {
-    "percentageOfPageLoad": 0.01248773,
+    "percentageOfPageLoad": 0.01260794,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/371"
   },
   "wasm-reference-types": {
-    "percentageOfPageLoad": 0.00561739,
+    "percentageOfPageLoad": 0.00616888,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/360"
   },
   "wasm-sign-extension-operators": {
-    "percentageOfPageLoad": 0.02654541,
+    "percentageOfPageLoad": 0.02763644,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/372"
   },
   "wasm-simd": {
-    "percentageOfPageLoad": 0.00440249,
+    "percentageOfPageLoad": 0.00522616,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/347"
   },
   "wasm-simd-relaxed": {
-    "percentageOfPageLoad": 0.00044213,
+    "percentageOfPageLoad": 0.0005068,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/361"
   },
   "wasm-string-builtins": {
-    "percentageOfPageLoad": 0.00341545,
+    "percentageOfPageLoad": 0.00343882,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/364"
   },
   "wasm-tail-call-optimization": {
-    "percentageOfPageLoad": 0.00027864,
+    "percentageOfPageLoad": 0.00033631,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/362"
   },
   "wasm-threads": {
-    "percentageOfPageLoad": 0.00229575,
+    "percentageOfPageLoad": 0.00258727,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/363"
   },
   "wasm-typed-fun-refs": {
-    "percentageOfPageLoad": 0.00342944,
+    "percentageOfPageLoad": 0.0034504,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/365"
   },
   "wbr": {},
   "weak-references": {
-    "percentageOfPageLoad": 0.21206498,
+    "percentageOfPageLoad": 0.22114708,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/254"
   },
   "weakmap": {},
   "weakset": {},
   "web-animations": {
-    "percentageOfPageLoad": 0.17977448,
+    "percentageOfPageLoad": 0.18273165,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/231"
   },
   "web-audio": {
-    "percentageOfPageLoad": 0.05172756,
+    "percentageOfPageLoad": 0.05419974,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/150"
   },
   "web-bluetooth": {
-    "percentageOfPageLoad": 0.00000199,
+    "percentageOfPageLoad": 0.00000208,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/105"
   },
   "web-cryptography": {},
   "web-locks": {
-    "percentageOfPageLoad": 0.05340254,
+    "percentageOfPageLoad": 0.05623115,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/78"
   },
   "web-midi": {
-    "percentageOfPageLoad": 0.00000941,
+    "percentageOfPageLoad": 0.00003079,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/153"
   },
   "web-nfc": {
-    "percentageOfPageLoad": 0.000011,
+    "percentageOfPageLoad": 0.00000361,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/106"
   },
   "web-otp": {
-    "percentageOfPageLoad": 0.0004598,
+    "percentageOfPageLoad": 0.00037289,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/248"
   },
   "webauthn": {},
   "webauthn-public-key-easy": {
-    "percentageOfPageLoad": 0.00000545,
+    "percentageOfPageLoad": 0.00000572,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/327"
   },
   "webauthn-signals": {},
   "webcodecs": {
-    "percentageOfPageLoad": 0.00223587,
+    "percentageOfPageLoad": 0.00250474,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/76"
   },
   "webdriver": {},
   "webdriver-bidi": {},
   "webgl": {
-    "percentageOfPageLoad": 0.28986232,
+    "percentageOfPageLoad": 0.29751443,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/433"
   },
   "webgl-2": {
-    "percentageOfPageLoad": 0.06459739,
+    "percentageOfPageLoad": 0.06640076,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/434"
   },
   "webgl-2color-management": {
-    "percentageOfPageLoad": 0.00484008,
+    "percentageOfPageLoad": 0.00470381,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/390"
   },
   "webgl-2desynchronized": {
-    "percentageOfPageLoad": 0.00114021,
+    "percentageOfPageLoad": 0.00093994,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/391"
   },
   "webgl-color-buffer-float": {},
   "webgl-color-management": {
-    "percentageOfPageLoad": 0.00498969,
+    "percentageOfPageLoad": 0.00476186,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/385"
   },
   "webgl-compressed-texture-astc": {},
   "webgl-compressed-texture-etc": {},
   "webgl-compressed-texture-etc1": {},
   "webgl-compressed-texture-pvrtc": {
-    "percentageOfPageLoad": 0.00453083,
+    "percentageOfPageLoad": 0.00457496,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/386"
   },
   "webgl-compressed-texture-s3tc": {},
@@ -2264,17 +2270,17 @@
   "webgl-debug-shaders": {},
   "webgl-depth-texture": {},
   "webgl-desynchronized": {
-    "percentageOfPageLoad": 0.00010572,
+    "percentageOfPageLoad": 0.00038517,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/387"
   },
   "webgl-draw-buffers": {},
   "webgl-lose-context": {},
   "webgl-multi-draw": {
-    "percentageOfPageLoad": 0.0160579,
+    "percentageOfPageLoad": 0.01890979,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/388"
   },
   "webgl-oes-draw-buffers-indexed": {
-    "percentageOfPageLoad": 0.00116325,
+    "percentageOfPageLoad": 0.00100815,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/389"
   },
   "webgl-sab": {},
@@ -2282,11 +2288,11 @@
   "webgl2-color-management": {},
   "webgl2-desynchronized": {},
   "webgpu": {
-    "percentageOfPageLoad": 0.10643719,
+    "percentageOfPageLoad": 0.10680965,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/290"
   },
   "webhid": {
-    "percentageOfPageLoad": 0.00001176,
+    "percentageOfPageLoad": 0.00001163,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/77"
   },
   "webnn": {
@@ -2294,7 +2300,7 @@
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/412"
   },
   "webp": {
-    "percentageOfPageLoad": 0.45927865,
+    "percentageOfPageLoad": 0.46766724,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/79"
   },
   "webrtc": {},
@@ -2303,16 +2309,16 @@
   "webrtc-stats": {},
   "websockets": {},
   "webtransport": {
-    "percentageOfPageLoad": 0.00006569,
+    "percentageOfPageLoad": 0.00006237,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/80"
   },
   "webusb": {
-    "percentageOfPageLoad": 0.000492,
+    "percentageOfPageLoad": 0.000462,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/81"
   },
   "webvr": {},
   "webvtt": {
-    "percentageOfPageLoad": 0.06238515,
+    "percentageOfPageLoad": 0.06271202,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/82"
   },
   "webvtt-cue-alignment": {},
@@ -2323,7 +2329,7 @@
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/402"
   },
   "webxr-ar": {
-    "percentageOfPageLoad": 1.7e-7,
+    "percentageOfPageLoad": 2e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/403"
   },
   "webxr-camera": {
@@ -2336,55 +2342,55 @@
   },
   "webxr-device": {},
   "webxr-dom-overlays": {
-    "percentageOfPageLoad": 1.7e-7,
+    "percentageOfPageLoad": 1.9e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/406"
   },
   "webxr-gamepads": {},
   "webxr-hand-input": {
-    "percentageOfPageLoad": 1.1e-7,
+    "percentageOfPageLoad": 1e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/407"
   },
   "webxr-hit-test": {
-    "percentageOfPageLoad": 1.7e-7,
+    "percentageOfPageLoad": 1.9e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/408"
   },
   "webxr-layers": {},
   "webxr-lighting-estimation": {
-    "percentageOfPageLoad": 1.1e-7,
+    "percentageOfPageLoad": 1.2e-7,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/409"
   },
   "wheel-events": {},
   "where": {
-    "percentageOfPageLoad": 0.36176797,
+    "percentageOfPageLoad": 0.36315077,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/83"
   },
   "white-space": {},
   "white-space-collapse": {
-    "percentageOfPageLoad": 0.00942463,
+    "percentageOfPageLoad": 0.01045089,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/166"
   },
   "widows-orphans": {},
   "width-height": {},
   "will-change": {
-    "percentageOfPageLoad": 0.41545217,
+    "percentageOfPageLoad": 0.41602834,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/87"
   },
   "window": {},
   "window-controls-overlay": {
-    "percentageOfPageLoad": 0.00158739,
+    "percentageOfPageLoad": 0.00160079,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/267"
   },
   "window-management": {
-    "percentageOfPageLoad": 0.00020859,
+    "percentageOfPageLoad": 0.00016406,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/332"
   },
   "with": {
-    "percentageOfPageLoad": 0.07082466,
+    "percentageOfPageLoad": 0.07632577,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/393"
   },
   "word-break": {},
   "word-break-auto-phrase": {
-    "percentageOfPageLoad": 0.00218998,
+    "percentageOfPageLoad": 0.00227265,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/196"
   },
   "word-break-break-word": {},
@@ -2392,7 +2398,7 @@
   "writing-mode": {},
   "writing-mode-svg-values": {},
   "writingsuggestions": {
-    "percentageOfPageLoad": 0.00137369,
+    "percentageOfPageLoad": 0.00131682,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/262"
   },
   "xhr": {},
@@ -2402,7 +2408,7 @@
   "z-index": {},
   "zoom": {},
   "zstd": {
-    "percentageOfPageLoad": 0.39288575,
+    "percentageOfPageLoad": 0.38628564,
     "chromeStatusUrl": "https://chromestatus.com/metrics/webfeature/timeline/popularity/291"
   }
 }
